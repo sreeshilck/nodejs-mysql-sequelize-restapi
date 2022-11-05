@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_mysql_sequelize_restapi",
+  "version": "1.0.0",
+  "description": "node express crud api with mysql and sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "sequelize"
+  ],
+  "author": "sreeshil",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  }
+}
